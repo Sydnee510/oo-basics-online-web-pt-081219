@@ -16,10 +16,11 @@ def initialize(title,author,page_count,genre)
   @page_count = page_count
   @genre = genre
   end
-  def title 
-  @title = "And Then There Were None"
-  end
-  def author 
-    @author = "Agatha Christie"
-  end
-end 
+end
+#   def title 
+#   @title = "And Then There Were None"
+#   end
+#   def author 
+#     @author = "Agatha Christie"
+#   end
+# end 
