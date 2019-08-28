@@ -4,7 +4,7 @@ def initialize(title)
   @title = title 
   end
 def turn_page
-  puts 
+  puts "Flipping the page...wow, you read fast!"
 end
 end
 #   def title 
