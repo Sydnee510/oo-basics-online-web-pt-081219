@@ -4,7 +4,7 @@ def initialize(title)
   end
   def title 
    @title = "And Then There Were None"
-   @author = "Agatha Christie"
   end
+  
 end 
 
