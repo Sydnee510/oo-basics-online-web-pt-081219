@@ -3,6 +3,7 @@ class Book
 def initialize(title)
   @title = title 
   end
+def tu
 end
 #   def title 
 #   @title = "And Then There Were None"
