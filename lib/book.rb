@@ -10,7 +10,7 @@
 #   end
 # end 
 class Book 
-def initialize(title,author, )
+def initialize(title,author, page_count, )
   @title = title 
   end
   def title 
