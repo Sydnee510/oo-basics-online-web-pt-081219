@@ -3,7 +3,9 @@ class Book
 def initialize(title)
   @title = title 
   end
-def tu
+def turn_page
+
+end
 end
 #   def title 
 #   @title = "And Then There Were None"
