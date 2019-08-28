@@ -15,7 +15,7 @@ class Book
     @author = author 
     @page_count = page_count
     @genre = genre
-  end
+end
 end
 #   def title 
 #   @title = "And Then There Were None"
